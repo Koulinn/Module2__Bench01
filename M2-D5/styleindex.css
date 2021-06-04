@@ -4,6 +4,10 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+nav{
+  background-color: #141414;
+}
+
 .footer-list {
   color: white;
   list-style: none;
@@ -16,7 +20,7 @@ body {
 
 .footer {
   box-sizing: border-box;
-  background-color: #1c1e20;
+  background-color: #141414;
   margin: auto;
   padding-top: 64px;
   padding-bottom: 128px;
