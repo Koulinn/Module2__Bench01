@@ -1,0 +1,46 @@
+body{
+    background-color: #141414;
+    min-height: 100vh;
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    color: white;
+    margin-top: 7px;
+    display: inline-block;
+}
+h2{
+    color: white;
+}
+button{
+    color: white !important;
+    margin-top:5px;
+    size: 25px 54px;
+    
+
+}
+.brightness img:hover {
+    opacity: .7;
+}
+.card{
+    border-radius: 0px;
+    margin-right: 1px;
+    padding: 2px;
+    background-color: #0f171e;
+}
+.fas fa-bars{
+    background-color: white;
+}
+
+.iconAdjust{
+    color: white;
+    margin-top: 10px;
+
+}
+
+.marginAdjust{
+    margin-left: 20px;
+}
+   
+
+
+   
