@@ -98,6 +98,10 @@ html {
     margin-bottom: 6px;
   }
 
+  p, h2 {
+      color: black;
+  }
+
   @media (max-width: 768px) { 
     .btnMod{
       display: bl;
@@ -131,9 +135,12 @@ html {
 
    }
 
-nav{
-background-color: #141414;
-}
+   nav{
+    background-color: #141414;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    margin: 0px;
+  }
 
 .extraMarginBot{
 margin-bottom: 128px;
