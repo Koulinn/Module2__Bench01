@@ -1,7 +1,7 @@
 body {
   color: #bec0c2;
   min-height: 100vh;
-  font-family: "Open Sans", sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 nav{
@@ -50,3 +50,5 @@ h6 {
 .marginExtra {
   margin-top: 96px
 }
+
+
